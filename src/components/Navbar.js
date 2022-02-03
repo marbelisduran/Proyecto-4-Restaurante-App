@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import Logo from "../assets/logo.png";
 import { Link } from "react-router-dom";
-import ReorderIcon from "@material-ui/icons/Reorder";
 import "../styles/Navbar.css";
 
 function Navbar() {
@@ -27,7 +26,7 @@ function Navbar() {
         <Link to="/nosotros"> Nosotros </Link>
         <Link to="/contacto"> Contacto </Link>
         <button onClick={toggleNavbar}>
-          <ReorderIcon />
+          algo
         </button>
       </div>
     </div>
