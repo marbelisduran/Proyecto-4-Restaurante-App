@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import FoodContacto from "../assets/contacto.jpg";
+import "../styles/Bootstrap.css";
 import "../styles/Contacto.css";
 
 import { addNotification } from "../shared";

@@ -1,11 +1,10 @@
 .contacto {
   width: 100%;
-  height: 90vh;
   display: flex;
 }
 
 .contacto .leftSide {
-  height: 100%;
+  height: 100vh;
   flex: 50%;
   background-position: center;
   background-repeat: no-repeat;
