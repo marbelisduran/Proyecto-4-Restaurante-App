@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Proyecto-4-Restaurante-App/static/css/main.ed99174f.chunk.css",
-    "main.js": "/Proyecto-4-Restaurante-App/static/js/main.799b2805.chunk.js",
-    "main.js.map": "/Proyecto-4-Restaurante-App/static/js/main.799b2805.chunk.js.map",
+    "main.css": "/Proyecto-4-Restaurante-App/static/css/main.f07251a5.chunk.css",
+    "main.js": "/Proyecto-4-Restaurante-App/static/js/main.c24a03aa.chunk.js",
+    "main.js.map": "/Proyecto-4-Restaurante-App/static/js/main.c24a03aa.chunk.js.map",
     "runtime-main.js": "/Proyecto-4-Restaurante-App/static/js/runtime-main.fd9b984c.js",
     "runtime-main.js.map": "/Proyecto-4-Restaurante-App/static/js/runtime-main.fd9b984c.js.map",
     "static/css/2.6fc934e4.chunk.css": "/Proyecto-4-Restaurante-App/static/css/2.6fc934e4.chunk.css",
-    "static/js/2.4adcaf9d.chunk.js": "/Proyecto-4-Restaurante-App/static/js/2.4adcaf9d.chunk.js",
-    "static/js/2.4adcaf9d.chunk.js.map": "/Proyecto-4-Restaurante-App/static/js/2.4adcaf9d.chunk.js.map",
+    "static/js/2.ac913df9.chunk.js": "/Proyecto-4-Restaurante-App/static/js/2.ac913df9.chunk.js",
+    "static/js/2.ac913df9.chunk.js.map": "/Proyecto-4-Restaurante-App/static/js/2.ac913df9.chunk.js.map",
     "index.html": "/Proyecto-4-Restaurante-App/index.html",
     "static/css/2.6fc934e4.chunk.css.map": "/Proyecto-4-Restaurante-App/static/css/2.6fc934e4.chunk.css.map",
-    "static/css/main.ed99174f.chunk.css.map": "/Proyecto-4-Restaurante-App/static/css/main.ed99174f.chunk.css.map",
-    "static/js/2.4adcaf9d.chunk.js.LICENSE.txt": "/Proyecto-4-Restaurante-App/static/js/2.4adcaf9d.chunk.js.LICENSE.txt",
+    "static/css/main.f07251a5.chunk.css.map": "/Proyecto-4-Restaurante-App/static/css/main.f07251a5.chunk.css.map",
+    "static/js/2.ac913df9.chunk.js.LICENSE.txt": "/Proyecto-4-Restaurante-App/static/js/2.ac913df9.chunk.js.LICENSE.txt",
     "static/media/bowl.8e329d43.jpg": "/Proyecto-4-Restaurante-App/static/media/bowl.8e329d43.jpg",
     "static/media/contacto.058cae45.jpg": "/Proyecto-4-Restaurante-App/static/media/contacto.058cae45.jpg",
     "static/media/croque-madame.70588e17.jpg": "/Proyecto-4-Restaurante-App/static/media/croque-madame.70588e17.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd9b984c.js",
     "static/css/2.6fc934e4.chunk.css",
-    "static/js/2.4adcaf9d.chunk.js",
-    "static/css/main.ed99174f.chunk.css",
-    "static/js/main.799b2805.chunk.js"
+    "static/js/2.ac913df9.chunk.js",
+    "static/css/main.f07251a5.chunk.css",
+    "static/js/main.c24a03aa.chunk.js"
   ]
 }
