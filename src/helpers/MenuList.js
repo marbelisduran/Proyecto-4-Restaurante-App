@@ -1,6 +1,6 @@
 import Wrap from "../assets/wrap.jpg";
 import Bowl from "../assets/bowl.jpg";
-import Pita from "../assets/pita.jpg";
+import Pita from "../assets/pita.png";
 import Rollitos from "../assets/rollitos-pollo.jpg";
 import Croque from "../assets/croque-madame.jpg";
 import Hamburguesa from "../assets/hamburguesa.jpg";

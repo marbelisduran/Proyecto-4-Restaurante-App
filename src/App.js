@@ -13,7 +13,7 @@ import './firebase';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/Proyecto-4-Restaurante-App">
         <Navbar />
         <Switch>
           <Route path="/" exact component={Inicio} />
