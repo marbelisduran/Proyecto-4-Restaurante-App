@@ -8,6 +8,8 @@ import Nosotros from "./pages/Nosotros";
 import Contacto from "./pages/Contacto";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
+import './firebase';
+
 function App() {
   return (
     <div className="App">

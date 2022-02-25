@@ -1,6 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import "./index.css";
 import App from "./App";
+import { ReactNotifications } from "react-notifications-component";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+import "react-notifications-component/dist/theme.css";
+import "animate.css";
+
+ReactDOM.render(
+  <>
+    <ReactNotifications />
+    <App />
+  </>,
+  document.getElementById("root")
+);
